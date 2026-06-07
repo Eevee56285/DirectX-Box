@@ -31,6 +31,10 @@ DirectX-Box is designed to feel like a real console rather than just a Linux mac
 
 The original Xbox had a very distinct style that set it apart from other consoles. The green aesthetic, the animations, the sound effects, and the overall “techno-organic” vibe gave it a personality that still stands out today. DirectX-Box is a way to bring that feeling back using modern tools. It isn’t meant to be official or perfect. It’s a personal project that mixes nostalgia with modern technology, giving the original Xbox experience a new life on today’s hardware while still respecting what made the original system special.
 
+---
+
+I will personaly start this over the summer untill then nothing will happen except the project page on github
+
 ## Todo List
-- [ ] Start making it with linux
+- [ ] Start the project
 - [ ] Disc compatibility will never come to this operating system just becuase of the current disc drive if someone later makes a compatible drive with xbox discs i might bring compatibility to the operating sytem
