@@ -12,6 +12,8 @@ The dashboard is the heart of DirectX-Box, built around the Theseus board create
 
 Xemu is the component responsible for running original Xbox games. Instead of being treated like a separate emulator, it is integrated directly into the system so that launching a game feels natural and connected to the dashboard. When a game is selected from the interface, it opens through Xemu, but the goal is for it to feel like part of the system rather than a separate program. Xemu handles the game compatibility, the virtual hard drive, memory units, and everything else needed to make original Xbox titles run smoothly on modern hardware.
 
+![Xemu Logo](https://th.bing.com/th/id/OIP.eljv8xN4FUcZUn-zNSn6GQAAAA?w=175&h=180&c=7&r=0&o=7&pid=1.7&rm=3)
+
 ## System Foundation
 
 Linux serves as the base layer that keeps everything stable and functional. It manages the hardware, drivers, performance, and background processes that allow the dashboard and Xemu to work together without issues. Using Linux also makes the project flexible, since it can run on different types of hardware without needing to be rebuilt from scratch. It also allows the system to switch between the Xbox-style dashboard and a normal desktop environment whenever deeper customization or development work is needed.
