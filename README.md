@@ -18,6 +18,8 @@ Xemu is the component responsible for running original Xbox games. Instead of be
 
 Linux serves as the base layer that keeps everything stable and functional. It manages the hardware, drivers, performance, and background processes that allow the dashboard and Xemu to work together without issues. Using Linux also makes the project flexible, since it can run on different types of hardware without needing to be rebuilt from scratch. It also allows the system to switch between the Xbox-style dashboard and a normal desktop environment whenever deeper customization or development work is needed.
 
+![linux logo](https://th.bing.com/th/id/OIP.fScYeyQcR7tCKCnqVqHkqQHaHa?w=181&h=181&c=7&r=0&o=7&pid=1.7&rm=3)
+
 ## Features and Experience
 
 DirectX-Box is designed to feel like a real console rather than just a Linux machine running an emulator. It includes a full dashboard experience, game launching, system menus, settings, a file browser, theme support, and a simple developer mode for experimenting with the system. The goal is to create something that feels complete and cohesive, where every part of the system works together to recreate the classic Xbox experience in a modern way.
