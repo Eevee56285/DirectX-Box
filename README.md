@@ -6,7 +6,7 @@ DirectX-Box is a project focused on recreating the classic Xbox experience using
 
 The dashboard is the heart of DirectX-Box, built around the Theseus board created by MrMilenko. This is what gives the system its identity. Theseus recreates the look and feel of the original Xbox dashboard, including the green glow, the layout, the transitions, and the overall vibe that made the console so memorable. When the system boots, Theseus is the first thing you see, and it becomes the main way you navigate everything. It acts as the shell of the system, giving DirectX-Box the same energy and style that defined the original console, while still being flexible enough to grow and evolve over time.
 
-`![Dashboard Preview]([https://theonlinebeacon.com/wp-content/uploads/2023/11/IMG_2303.jpeg](https://ejosue.com/wp-content/uploads/xbox-menu-screen-1024x575.png)`
+![Dashboard Preview]([https://theonlinebeacon.com/wp-content/uploads/2023/11/IMG_2303.jpeg](https://ejosue.com/wp-content/uploads/xbox-menu-screen-1024x575.png)
 
 ## Game Support and Compatibility
 
