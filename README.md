@@ -14,7 +14,7 @@ Xemu is the component responsible for running original Xbox games. Instead of be
 
 ![Xemu Logo](https://th.bing.com/th/id/OIP.eljv8xN4FUcZUn-zNSn6GQAAAA?w=175&h=180&c=7&r=0&o=7&pid=1.7&rm=3)
 
-## System Foundation (the beloved pinguin)
+## System Foundation (the beloved penguin)
 
 Linux serves as the base layer that keeps everything stable and functional. It manages the hardware, drivers, performance, and background processes that allow the dashboard and Xemu to work together without issues. Using Linux also makes the project flexible, since it can run on different types of hardware without needing to be rebuilt from scratch. It also allows the system to switch between the Xbox-style dashboard and a normal desktop environment whenever deeper customization or development work is needed.
 
