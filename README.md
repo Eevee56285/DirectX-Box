@@ -18,7 +18,8 @@ The dashboard is the heart of DirectX-Box, built around the [Theseus](https://gi
 
 ## System Foundation (the beloved penguin)
 
-Linux serves as the base layer that keeps everything stable and functional. It manages the hardware, drivers, performance, and background processes that allow the dashboard and Xemu to work together without issues. Using Linux also makes the project flexible, since it can run on different types of hardware without needing to be rebuilt from scratch. It also allows the system to switch between the Xbox-style dashboard and a normal desktop environment whenever deeper customization or development work is needed.
+[Linux](https://www.linux.org/ "Linux")
+ serves as the base layer that keeps everything stable and functional. It manages the hardware, drivers, performance, and background processes that allow the dashboard and Xemu to work together without issues. Using Linux also makes the project flexible, since it can run on different types of hardware without needing to be rebuilt from scratch. It also allows the system to switch between the Xbox-style dashboard and a normal desktop environment whenever deeper customization or development work is needed.
 
 ![linux logo](https://th.bing.com/th/id/OIP.fScYeyQcR7tCKCnqVqHkqQHaHa?w=181&h=181&c=7&r=0&o=7&pid=1.7&rm=3)
 
