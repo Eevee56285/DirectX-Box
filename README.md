@@ -10,7 +10,7 @@ The dashboard is the heart of DirectX-Box, built around the Theseus board create
 
 ## Game Support and Compatibility
 
-[Xemu]( "Xemu")
+[Xemu](https://www.bing.com/ck/a?!&&p=505710e26b7f3b87264e9b79292320b1ee71c81d89d4bf5e651906563780f99fJmltdHM9MTc4MDc5MDQwMA&ptn=3&ver=2&hsh=4&fclid=22ee684d-f339-67fb-33bc-7eb9f2d16651&psq=xemu&u=a1aHR0cHM6Ly94ZW11LmFwcC8 "Xemu")
  is the component responsible for running original Xbox games. Instead of being treated like a separate emulator, it is integrated directly into the system so that launching a game feels natural and connected to the dashboard. When a game is selected from the interface, it opens through Xemu, but the goal is for it to feel like part of the system rather than a separate program. Xemu handles the game compatibility, the virtual hard drive, memory units, and everything else needed to make original Xbox titles run smoothly on modern hardware.
 
 ![Xemu Logo](https://th.bing.com/th/id/OIP.eljv8xN4FUcZUn-zNSn6GQAAAA?w=175&h=180&c=7&r=0&o=7&pid=1.7&rm=3)
