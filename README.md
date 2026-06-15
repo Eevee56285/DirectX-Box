@@ -36,5 +36,6 @@ The original Xbox had a very distinct style that set it apart from other console
 I will personaly start this over the summer untill then nothing will happen except the project page on github
 
 ## Todo List
-- [ ] Start the project
+- [*] Start the project
+- [ ] Fix theseus and make it launch automaticaly
 - [ ] Disc compatibility will never come to this operating system just becuase of the current disc drive if someone later makes a compatible drive with xbox discs i might bring compatibility to the operating sytem
