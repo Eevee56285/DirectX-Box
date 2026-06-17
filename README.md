@@ -1,6 +1,6 @@
 # DirectX-Box
 
-DirectX-Box is a project focused on recreating the classic Xbox experience using modern tools. The goal is to bring back the feeling of turning on the original Xbox, but in a way that works on today’s hardware and isn’t limited by the old system’s restrictions. Instead of trying to perfectly copy the original Xbox operating system, this project focuses on capturing its style, personality, and atmosphere while running on a Linux foundation. [see intructions](https://github.com/Eevee56285/DirectX-Box/main/Instructions.md)
+DirectX-Box is a project focused on recreating the classic Xbox experience using modern tools. The goal is to bring back the feeling of turning on the original Xbox, but in a way that works on today’s hardware and isn’t limited by the old system’s restrictions. Instead of trying to perfectly copy the original Xbox operating system, this project focuses on capturing its style, personality, and atmosphere while running on a Linux foundation. [see intructions](https://github.com/Eevee56285/DirectX-Box/blob/main/Instructions.md)
 
 ## Dashboard and Interface
 
