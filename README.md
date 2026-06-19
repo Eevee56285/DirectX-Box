@@ -11,12 +11,10 @@
 ## Download
 
 The current build exceeds GitHub’s 2GB file limit, so the full files can be downloaded here:  
-👉 **Download DirectX‑Box Files (OneDrive)**  
-https://1drv.ms/f/c/7d9f2a1e114243b4/IgAHGH-TaaGGTa5xDtIhv-hrAVnw7aFIJ6RJfuxhjB6IbLg?e=NiQOth
+👉 [Download DirectX‑Box Files (OneDrive)](https://1drv.ms/f/c/7d9f2a1e114243b4/IgAHGH-TaaGGTa5xDtIhv-hrAVnw7aFIJ6RJfuxhjB6IbLg?e=NiQOth)
 
 For setup instructions, see:  
-👉 **Instructions.md**  
-https://github.com/Eevee56285/DirectX-Box/blob/main/Instructions.md
+👉 [Instructions.md](https://github.com/Eevee56285/DirectX-Box/blob/main/Instructions.md)
 
 ---
 
