@@ -33,12 +33,17 @@ This makes Xemu launch automatically on boot.
 4. Configure the required files:
 
 - **Hard Disk:**  
-  ```/usr/share/xemu/hdd/xbox_hdd.qcow2```
+  ```txt
+  /usr/share/xemu/hdd/xbox_hdd.qcow2
+  ```
 
 - **Flash ROM (BIOS):**  
-  `/usr/share/xemu/bios/Complex_4627v1.03.bin`
-
+  ```txt
+  /usr/share/xemu/bios/Complex_4627v1.03.bin
+  ```
 - **MCPX Boot ROM:**  
-  `/usr/share/xemu/bios/mcpx_1.0.bin`
+  ```txt
+  /usr/share/xemu/bios/mcpx_1.0.bin
+  ```
 
 After these are set, Xemu will boot like a real Xbox every time the system starts.
