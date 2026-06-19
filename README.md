@@ -119,40 +119,18 @@ It blends nostalgia with modern technology to revive the original Xbox experienc
 
 ---
 
-# 🗺️ Roadmap
+## Current Development Goals
 
-## **Phase 1 — Foundation (Current)**
-- [x] Establish project structure  
-- [x] Upload initial build (external hosting due to size)  
-- [ ] Improve Xemu auto‑launch integration  
-- [ ] Clean up Ubuntu base image  
-- [ ] Add a custom Xbox‑style boot animation  
-
-## **Phase 2 — Dashboard Integration**
-- [ ] Integrate Theseus as primary shell  
-- [ ] Add theme support (green, crystal, debug‑kit themes)  
-- [ ] Implement system settings UI  
-- [ ] Add file browser with Xbox‑style UI  
-- [ ] Add “Developer Mode” toggle  
-
-## **Phase 3 — Game Experience**
-- [ ] Seamless game launching from dashboard  
-- [ ] Virtual memory unit support  
-- [ ] Improved controller mapping presets  
-- [ ] Auto‑scan for installed games  
-- [ ] Optional “Classic Xbox Sounds” pack  
-
-## **Phase 4 — System Polish**
-- [ ] Custom DirectX‑Box updater  
-- [ ] Optional desktop mode switcher  
-- [ ] Performance tuning for low‑end hardware  
-- [ ] Accessibility improvements  
-- [ ] Documentation, screenshots, and video demos  
-
-## **Long‑Term / Stretch Goals**
-- [ ] Support for dumping original Xbox HDDs  
-- [ ] Optional real‑hardware compatibility (if future drives support Xbox discs)  
-- [ ] Community theme marketplace  
+- Keep the system lightweight and avoid unnecessary Ubuntu bloat  
+- Use Xemu’s built‑in Xbox boot animation for a more authentic startup  
+- Configure Xemu to auto‑launch on boot for a seamless console‑like experience  
+- Ensure the system only includes what’s required:
+  - File browser  
+  - Startup Applications  
+  - Xemu  
+- Remove unneeded packages from the installer to keep the OS clean and fast  
+- Improve the auto‑launch behavior so Xemu starts reliably every time  
+- Maintain a simple, minimal environment focused on recreating the original Xbox feel  
 
 ---
 
