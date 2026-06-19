@@ -158,7 +158,7 @@ Anything that can run Ubuntu reliably:
 
 ### **Is this legal?**
 DirectX‑Box itself is legal.  
-Users are responsible for legally obtaining their own game files or BIOS dumps.
+Users are responsible for legally obtaining their own game files.
 
 ### **When will development continue?**
 Full development begins this summer.
