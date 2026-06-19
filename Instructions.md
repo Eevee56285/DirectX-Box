@@ -5,8 +5,10 @@ Begin by installing **directx-box**.
 
 ### 2. Create Your Account
 When prompted during setup:
-- Set the **account name** to `xbox`
-- Enable **auto‑login**
+
+- **Account Name:** `xbox`
+- **Password:** `xbox`
+- Enable **Auto‑Login**
 
 ### 3. First Launch of Ubuntu
 After Ubuntu finishes setting up and you reach the desktop, continue below.
@@ -18,4 +20,5 @@ After Ubuntu finishes setting up and you reach the desktop, continue below.
 
 **Name:** `Xemu`  
 **Command:** `xemu`  
-**Comment:** *(anything you want)*
+**Comment:** *(optional)*
+
