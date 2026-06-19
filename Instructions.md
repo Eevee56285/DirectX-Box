@@ -33,7 +33,7 @@ This makes Xemu launch automatically on boot.
 4. Configure the required files:
 
 - **Hard Disk:**  
-  `/usr/share/xemu/hdd/xbox_hdd.qcow2`
+  ```/usr/share/xemu/hdd/xbox_hdd.qcow2```
 
 - **Flash ROM (BIOS):**  
   `/usr/share/xemu/bios/Complex_4627v1.03.bin`
