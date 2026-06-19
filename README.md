@@ -1,21 +1,52 @@
-# DirectX‑Box
+# 🎮 DirectX‑Box  
+### Reimagining the Original Xbox Experience on Modern Hardware
+
+![Status](https://img.shields.io/badge/status-WIP-yellow)
+![Platform](https://img.shields.io/badge/platform-Linux-green)
+![Emulator](https://img.shields.io/badge/emulator-Xemu-blue)
+
+---
+
+## Download
 
 The current build exceeds GitHub’s 2GB file limit, so the full files can be downloaded here:  
-[**Download DirectX‑Box Files (OneDrive)**](https://1drv.ms/f/c/7d9f2a1e114243b4/IgAHGH-TaaGGTa5xDtIhv-hrAVnw7aFIJ6RJfuxhjB6IbLg?e=NiQOth)
+👉 [**Download DirectX‑Box Files (OneDrive)**](https://1drv.ms/f/c/7d9f2a1e114243b4/IgAHGH-TaaGGTa5xDtIhv-hrAVnw7aFIJ6RJfuxhjB6IbLg?e=NiQOth)
 
-DirectX‑Box is a project aimed at recreating the classic **original Xbox experience** using modern tools. The goal isn’t to perfectly clone the original OS, but to capture its **style, personality, and atmosphere** while running on a Linux foundation.  
 For setup instructions, see:  
 👉 [**Instructions.md**](https://github.com/Eevee56285/DirectX-Box/blob/main/Instructions.md)
 
 ---
 
+## What Is DirectX‑Box?
+
+DirectX‑Box is a project aimed at recreating the classic **original Xbox experience** using modern tools.  
+The goal isn’t to perfectly clone the original OS, but to capture its:
+
+- Style  
+- Personality  
+- Atmosphere  
+- Dashboard feel  
+- Green techno‑organic vibe  
+
+All while running on a flexible Linux foundation.
+
+---
+
 ## Dashboard and Interface
 
-The dashboard is the core of DirectX‑Box, powered by **[Theseus](https://github.com/MrMilenko/Theseus)** — a recreation of the original Xbox dashboard maintained by *MrMilenko*. Theseus brings back the iconic green glow, transitions, layout, and overall vibe that defined the original console.
+The dashboard is the core of DirectX‑Box, powered by **[Theseus](https://github.com/MrMilenko/Theseus)** — a recreation of the original Xbox dashboard maintained by *MrMilenko*.
 
-When the system boots, Theseus acts as the main shell, giving DirectX‑Box its identity while still allowing room for future expansion.
+Theseus brings back:
 
-> **Note:** This may change. I recently discovered that it’s possible to dump an original Xbox OS to a hard‑drive image. If that becomes the main method, Xemu may be the only component needed for dashboard functionality.
+- The iconic green glow  
+- Original layout  
+- Smooth transitions  
+- The nostalgic Xbox vibe  
+
+When the system boots, Theseus acts as the main shell, giving DirectX‑Box its identity.
+
+> **Note:** This may change. It’s possible to dump an original Xbox OS to a hard‑drive image.  
+> If that becomes the main method, Xemu may be the only component needed for dashboard functionality.
 
 ![Dashboard Preview](https://ejosue.com/wp-content/uploads/xbox-menu-screen-1024x575.png)
 
@@ -23,9 +54,11 @@ When the system boots, Theseus acts as the main shell, giving DirectX‑Box its 
 
 ## Game Support and Compatibility
 
-**[Xemu](https://xemu.app/)** is integrated directly into the system to run original Xbox games. Instead of feeling like a separate emulator, Xemu launches seamlessly from the dashboard so the experience feels unified.
+**[Xemu](https://xemu.app/)** is integrated directly into the system to run original Xbox games.  
+Instead of feeling like a separate emulator, Xemu launches seamlessly from the dashboard.
 
 Xemu handles:
+
 - Game compatibility  
 - Virtual hard drives  
 - Memory units  
@@ -38,9 +71,17 @@ Xemu handles:
 
 ## System Foundation (The Beloved Penguin)
 
-DirectX‑Box runs on **Linux**, which provides stability, hardware support, and flexibility. Linux manages drivers, performance, and background processes, allowing the dashboard and Xemu to work together smoothly.
+DirectX‑Box runs on **Linux**, which provides:
 
-This project currently uses **Ubuntu**, so you’ll see the Ubuntu installer and boot screen. During installation:
+- Stability  
+- Hardware support  
+- Flexibility  
+- Driver management  
+- Performance tuning  
+
+This project currently uses **Ubuntu**, so you’ll see the Ubuntu installer and boot screen.
+
+During installation:
 
 - Set the **system name** to `xbox`  
 - Keep all default settings  
@@ -52,7 +93,9 @@ This project currently uses **Ubuntu**, so you’ll see the Ubuntu installer and
 
 ## Features and Experience
 
-DirectX‑Box aims to feel like a **real console**, not just Linux running an emulator. Planned features include:
+DirectX‑Box aims to feel like a **real console**, not just Linux running an emulator.
+
+Planned features include:
 
 - Full dashboard experience  
 - Game launching  
@@ -68,19 +111,94 @@ The goal is a cohesive, console‑like experience that brings the original Xbox 
 
 ## Purpose and Inspiration
 
-The original Xbox had a unique style — the green aesthetic, the techno‑organic animations, the sound effects, the whole vibe. DirectX‑Box is a way to bring that feeling back using modern hardware.
+The original Xbox had a unique style — the green aesthetic, techno‑organic animations, sound effects, and overall vibe.  
+DirectX‑Box brings that feeling back using modern hardware.
 
-This is a passion project, not an official recreation. It mixes nostalgia with modern tech to revive the original Xbox experience while respecting what made it special.
-
----
-
-## Project Status
-
-Development will begin over the summer. Until then, this GitHub page will serve as the main project hub.
+This is a passion project, not an official recreation.  
+It mixes nostalgia with modern tech to revive the original Xbox experience while respecting what made it special.
 
 ---
 
-## Todo List
+# 🗺️ Roadmap
+
+## **Phase 1 — Foundation (Current)**
+- [x] Establish project structure  
+- [x] Upload initial build (external hosting due to size)  
+- [ ] Improve Xemu auto‑launch integration  
+- [ ] Clean up Ubuntu base image  
+- [ ] Add custom Xbox‑style boot animation  
+
+## **Phase 2 — Dashboard Integration**
+- [ ] Integrate Theseus as primary shell  
+- [ ] Add theme support (green, crystal, debug‑kit themes)  
+- [ ] Implement system settings UI  
+- [ ] Add file browser with Xbox‑style UI  
+- [ ] Add “Developer Mode” toggle  
+
+## **Phase 3 — Game Experience**
+- [ ] Seamless game launching from dashboard  
+- [ ] Virtual memory unit support  
+- [ ] Improved controller mapping presets  
+- [ ] Auto‑scan for installed games  
+- [ ] Optional “Classic Xbox Sounds” pack  
+
+## **Phase 4 — System Polish**
+- [ ] Custom DirectX‑Box updater  
+- [ ] Optional desktop mode switcher  
+- [ ] Performance tuning for low‑end hardware  
+- [ ] Accessibility improvements  
+- [ ] Documentation, screenshots, and video demos  
+
+## **Long‑Term / Stretch Goals**
+- [ ] Support for dumping original Xbox HDDs  
+- [ ] Optional real‑hardware compatibility (if future drives support Xbox discs)  
+- [ ] Community theme marketplace  
+
+---
+
+# ❓ FAQ
+
+### **What is DirectX‑Box?**
+A Linux‑based system designed to recreate the look and feel of the original Xbox dashboard.
+
+### **Is this an emulator?**
+Not exactly.  
+DirectX‑Box uses **Xemu** for game compatibility, but the goal is to make the entire system feel like a real console.
+
+### **Does this use the real Xbox OS?**
+Currently it uses **Theseus**, but dumping an original Xbox HDD image may change this in the future.
+
+### **Can it read real Xbox discs?**
+Not with modern disc drives.  
+If someone creates a drive that can read Xbox discs, support *might* be added later.
+
+### **What hardware does it run on?**
+Anything that can run Ubuntu reliably:
+- Laptops  
+- Desktops  
+- Mini PCs  
+- Some handheld PCs  
+
+### **Is this legal?**
+DirectX‑Box itself is legal.  
+Users are responsible for legally obtaining their own game files or BIOS dumps.
+
+### **When will development continue?**
+Full development begins this summer.
+
+### **Can I contribute?**
+Yes! Contributions, ideas, and testing feedback are welcome once the first public build is ready.
+
+---
+
+# Project Status
+
+Development will begin over the summer.  
+Until then, this GitHub page will serve as the main project hub.
+
+---
+
+# Todo List
 
 - [x] Start the project  
 - [ ] Fix Xemu integration and make it auto‑launch (in development)  
